@@ -2,7 +2,9 @@ To read the documentation in English, click [here](https://github.com/jwcbmat/ne
 
 O software ainda está em desenvolvimento e infelizmente não há uma previsão de quando será concluído no momento.
 
-<img src="./src/images/cover-pt-br.png" alt="Capa do projeto" style="width: 45%;">
+<div style="text-align: center">
+  <img src="./src/images/cover-pt-br.png" alt="Capa do projeto" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
 
 # New World Helper
 
