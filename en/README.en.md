@@ -2,8 +2,9 @@ Para ler a documentação em Português, clique [aqui](../README.md).
 
 The software is still under development and unfortunately there is no prediction of when it will be completed at this time.
 
-<img src="../src/images/cover-en.png" alt="Cover of the project" style="width: 45%;">
-
+<div style="text-align: center">
+  <img src="../src/images/cover-en.png" alt="Capa do projeto" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
 
 # New World Helper
 
