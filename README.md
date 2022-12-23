@@ -1,4 +1,4 @@
-To read the documentation in English, click [here](./en/readme.en.md).
+To read the documentation in English, click [here](https://github.com/jwcbmat/newWorldHelper/blob/master/en/README.en.md).
 
 O software ainda está em desenvolvimento e infelizmente não há uma previsão de quando será concluído no momento.
 
